@@ -1,0 +1,25 @@
+Partlist
+
+Exported from Schematic_328programmer.sch at 6/8/16 2:40 PM
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value                         Device                        Package              Library                    Sheet
+
+C1       22pF                          CAP0603-CAP                   0603-CAP             SparkFun-Capacitors        1
+C2       22pF                          CAP0603-CAP                   0603-CAP             SparkFun-Capacitors        1
+C3       10uF                          10UF-25V-20%(PTH)             CPOL-RADIAL-10UF-25V SparkFun-Capacitors        1
+D1       BLUE                          LED-BLUE1206                  LED-1206             SparkFun-LED               1
+IC1      ATTiny85                      DIL8S                         SOCKET-08            ic-package                 1
+R1       10k                           RESISTOR0603-RES              0603-RES             SparkFun-Passives          1
+R2       220 ohm                       RESISTOR0603                  0603-RES             SparkFun-Resistors         1
+S1       bootloader vs programmer      SWITCH-SPDTPTH                SWITCH-SPDT          SparkFun-Electromechanical 1
+S2       txSwitch                      SWITCH-SPDTPTH                SWITCH-SPDT          SparkFun-Electromechanical 1
+S3       rxSwitch                      SWITCH-SPDTPTH                SWITCH-SPDT          SparkFun-Electromechanical 1
+S4       ic test switch                SWITCH-SPDTPTH                SWITCH-SPDT          SparkFun-Electromechanical 1
+U$1      ARDUINO-NOHOLE                ARDUINO-NOHOLE                ARDUINO-NOHOLE       adafruit                   1
+U$3      ZIFSOCKET-28-3ZIFFSOCKET-28-3 ZIFSOCKET-28-3ZIFFSOCKET-28-3 DIL28-3-ZIF_SOCKET   SparkFun-Connectors        1
+U1       ATMEGA328P_TQFP               ATMEGA328P_TQFP               TQFP32-08            SparkFun-DigitalIC         1
+Y1       16mhz                         CRYSTALHC49US                 HC49US               SparkFun-FreqCtrl          1
