@@ -1,4 +1,4 @@
-Mobot_EPCA
+AT Programming Shield
 ==========
 
 ##BOM
@@ -16,9 +16,9 @@ For a detailed list please see the BOM
 
 ##Here is what the shield looks like. 
 
-![alt text](https://github.com/AnandKapadia/ATmega328_programmer/blob/master/images/cad_1.png"CAD 1")
+![alt text](https://github.com/AnandKapadia/ATmega328_programmer/blob/master/images/cad_1.png "CAD 1")
 
-![alt text](https://github.com/AnandKapadia/ATmega328_programmer/blob/master/images/cad_2.png"CAD 2")
+![alt text](https://github.com/AnandKapadia/ATmega328_programmer/blob/master/images/cad_2.png "CAD 2")
 
 OSH Park Visualization: 
 ![alt text](https://github.com/AnandKapadia/ATmega328_programmer/blob/master/images/osh.png "OSH Park")
